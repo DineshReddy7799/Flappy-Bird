@@ -1,7 +1,6 @@
-# Flappy-Bird
 # Flappy Bird NEAT AI
 
-This project is an implementation of the classic Flappy Bird game using NEAT (NeuroEvolution of Augmenting Topologies) to evolve neural networks to play the game autonomously. The game is developed using Python and Pygame, and the NEAT library is used for the evolutionary algorithm.
+This project implements the classic Flappy Bird game using NEAT (NeuroEvolution of Augmenting Topologies) to evolve neural networks to play the game autonomously. The game is developed using Python and Pygame, and the NEAT library is used for the evolutionary algorithm.
 
 ## Requirements
 
@@ -14,7 +13,7 @@ This project is an implementation of the classic Flappy Bird game using NEAT (Ne
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-neat.git
+   git clone https://github.com/DineshReddy7799/flappy-bird-neat.git
    cd flappy-bird-neat
    ```
 
@@ -28,7 +27,7 @@ This project is an implementation of the classic Flappy Bird game using NEAT (Ne
 
 ## How to Run
 
-1. Ensure that you have the NEAT configuration file (`config-feedforward.txt`) in the project directory.
+1. Ensure the NEAT configuration file (`config-feedforward.txt`) is in the project directory.
 2. Run the main script:
 
    ```bash
